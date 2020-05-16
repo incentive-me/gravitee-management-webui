@@ -21,6 +21,9 @@
       <img class="logo" ng-src="{{homeCtrl.getLogo()}}" alt="logo"/>
       <h1><span>{{indexCtrl.companyName}}</span> <span translate="home.subtitle" style="font-weight: 100;"></span></h1>
     </div>
+    <div layout="column" layout-align="center center">
+      <h4><span translate="home.tagline"></span></h4>
+    </div>
     <div layout="row" layout-align="center center" style="margin-top: 10px;">
       <form layout="row" name="formSearch" autocomplete="off" ng-submit="homeCtrl.search()" flex="90" flex-sm="70" flex-gt-xs="50">
         <input type="text" autofocus class="form-control apis-filter" placeholder="{{'home.apis.search' | translate}}" ng-model="homeCtrl.query" />

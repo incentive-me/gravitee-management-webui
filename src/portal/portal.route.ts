@@ -36,6 +36,7 @@ function portalRouterConfig($stateProvider) {
         this.pages = resolvedDocumentation;
 
         this.getLogo = () => Constants.theme.logo;
+        this.getLogoSmall = () => Constants.theme.logoSmall;
       },
       controllerAs: 'indexCtrl',
       resolve: {

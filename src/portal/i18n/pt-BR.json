@@ -23,20 +23,21 @@
       }
     },
     "home": {
-      "subtitle": "Portal do Desenvolvedor",
+      "subtitle": "Developers",
+      "tagline": "Abordagem API First na solução de cálculos complexos de incentivos, comissões e distribuição de prêmios.",
       "version": "Versão: {{version}}",
       "pages": {
         "title": "Documentação"
       },
       "apis": {
         "search": "Buscar APIs...",
-        "top": "Top APIs",
+        "top": "Explore nossas APIs",
         "all": "Ver todas as APIs"
       }
     },
     "menu": {
       "login": "Login",
-      "gallery": "Galeria de APIs",
+      "gallery": "APIs",
       "documentation": "Documentação",
       "profile": "Minha conta",
       "management": "Administração",

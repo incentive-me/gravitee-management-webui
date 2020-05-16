@@ -112,6 +112,10 @@ export const NavbarComponent: ng.IComponentOptions = {
       return Constants.theme.logo;
     };
 
+    vm.getLogoSmall = function() {
+      return Constants.theme.logoSmall;
+    };
+
     vm.getUserPicture = function() {
       return UserService.currentUserPicture();
     };

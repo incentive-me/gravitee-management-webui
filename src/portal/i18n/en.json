@@ -24,21 +24,22 @@
     "passwordRules": "Passwords must follow the rules in place."
   },
   "home": {
-    "subtitle": "Developers portal",
+    "subtitle": "Developers",
+    "tagline": "Abordagem API First na solução de cálculos complexos de incentivos, comissões e distribuição de prêmios.",
     "version": "Version: {{version}}",
     "pages": {
       "title": "Documentation"
     },
     "apis": {
       "search": "Search for an API...",
-      "top": "Top APIs",
+      "top": "Explore our APIs",
       "all": "See all APIs",
       "no.search.result": "No API found for your search."
     }
   },
   "menu": {
     "login": "Login",
-    "gallery": "API gallery",
+    "gallery": "APIs",
     "documentation": "Documentation",
     "profile": "My account",
     "management": "Administration",
@@ -199,7 +200,7 @@
     "filter": "Filter views..."
   },
   "view": {
-    "defaultDescription":  "Retrieve APIs of the {{viewName}} category",
+    "defaultDescription": "Retrieve APIs of the {{viewName}} category",
     "api": {
       "documentation": "Documentation",
       "ratings": "Ratings"
