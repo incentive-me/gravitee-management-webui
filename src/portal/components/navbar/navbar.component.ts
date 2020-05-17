@@ -113,7 +113,7 @@ export const NavbarComponent: ng.IComponentOptions = {
     };
 
     vm.getLogoSmall = function() {
-      return Constants.theme.logoSmall;
+      return "themes/assets/logo-square.png";
     };
 
     vm.getUserPicture = function() {

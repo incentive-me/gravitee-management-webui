@@ -1,12 +1,11 @@
 {
   "baseURL": "/management/",
-  "company" : {
-    "name" : "Incentive.me"
+  "company": {
+    "name": "Incentive.me"
   },
-  "theme" : {
-    "name" : "default",
-    "logo" : "themes/assets/logo.png",
-    "logoSmall" : "themes/assets/logo-square.png",
-    "loader" : "themes/assets/loading.gif"
+  "theme": {
+    "name": "default",
+    "logo": "themes/assets/logo.png",
+    "loader": "themes/assets/loading.gif"
   }
 }
